@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Deep Link Hosting</h1>
+<p>This project exists to host an apple-app-site-association file</p>
+</body>
+</html>
